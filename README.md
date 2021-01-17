@@ -1,4 +1,4 @@
-# dio-instagran-tela-login
+# dio-instagram-tela-login
 Bootcamp DIO - Recriando a página de Login do Instagram
 
 DESCRIÇÃO
